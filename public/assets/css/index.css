@@ -1,0 +1,4 @@
+.main__menu {
+  display: grid;
+  row-gap: 20px;
+}
